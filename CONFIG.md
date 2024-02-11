@@ -37,14 +37,14 @@ VTuber事務所「深層組」所属タレント のフィード<br>
 > 従井ノラ
 - https://bsky.app/profile/norashitagai.bsky.social +replies +reposts
 
+> わからせちょろ
+- https://bsky.app/profile/choronya.bsky.social +replies +reposts
+
 > 刺杉あいす
 - https://bsky.app/profile/sashisugiaisu.bsky.social +replies +reposts
 
 > 数打あたる
 - https://bsky.app/profile/atarukazuuchi.bsky.social +replies +reposts
-
-> わからせちょろ
-- https://bsky.app/profile/choronya.bsky.social +replies +reposts
 
 # denyList
 
