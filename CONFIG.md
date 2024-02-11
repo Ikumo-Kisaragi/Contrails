@@ -15,9 +15,7 @@ My-List
 
 > This is the description of the feed.
 
-VTuber事務所「深層組」所属タレント のフィード¥n
-　ご本人へのリプライ「含む」¥n
-　ご本人のリポスト「含む」
+VTuber事務所「深層組」所属タレント のフィード。ご本人へのリプライ・ご本人のリポストともに「含む」
 
 # searchTerms
 
