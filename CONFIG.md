@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-My-List
+My-List_01
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-「深層組」所属タレント
+「深層組」メンバー
 
 # description
 
 > This is the description of the feed.
 
-VTuber事務所「深層組」所属タレント のフィード。ご本人のリポストを「含む」
+VTuber事務所「深層組」所属メンバーのフィード。ご本人のリポストを「含む」
 
 # searchTerms
 
