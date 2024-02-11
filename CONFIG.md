@@ -16,8 +16,9 @@ My-List
 > This is the description of the feed.
 
 VTuber事務所「深層組」所属タレント のフィード<br>
-ご本人へのリプライ「含む」<br>
-ご本人のリポスト「含む」<br>
+<br>
+　ご本人へのリプライ「含む」<br>
+　ご本人のリポスト「含む」<br>
 <br>
 ◾️現在のタレントリスト<br>
 <br>
