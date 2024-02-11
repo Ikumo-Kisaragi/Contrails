@@ -9,13 +9,15 @@ My-List
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-ギター関連（テスト）
+VTuber事務所「深層組」所属タレント
 
 # description
 
 > This is the description of the feed.
 
-ギター関連のフィード（テスト）
+VTuber事務所「深層組」所属タレント のフィード
+・タレントご本人へのリプライ：含む
+・タレントご本人のリポスト ：含む
 
 # searchTerms
 
@@ -25,8 +27,17 @@ My-List
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- ギター
-- guitar
+> 従井ノラ
+- https://bsky.app/profile/norashitagai.bsky.social +replies +reposts
+
+> 刺杉あいす
+- https://bsky.app/profile/sashisugiaisu.bsky.social +replies +reposts
+
+> 数打あたる
+- https://bsky.app/profile/atarukazuuchi.bsky.social +replies +reposts
+
+> わからせちょろ
+- https://bsky.app/profile/choronya.bsky.social +replies +reposts
 
 # denyList
 
