@@ -15,8 +15,15 @@ My-List
 
 > This is the description of the feed.
 
-VTuber事務所「深層組」所属タレント のフィード。<br>
-タレントご本人へのリプライ・ご本人のリポストともに「含む」
+VTuber事務所「深層組」所属タレント のフィード<br>
+ご本人へのリプライ「含む」<br>
+ご本人のリポスト「含む」<br>
+<br>
+◾️現在のタレントリスト<br>
+　・従井ノラ<br>
+　・わからせちょろ<br>
+　・刺杉あいす<br>
+　・数打あたる<br>
 
 # searchTerms
 
