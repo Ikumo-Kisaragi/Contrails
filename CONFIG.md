@@ -9,7 +9,7 @@ My-List
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-「深層組」メンバー
+深層組
 
 # description
 
