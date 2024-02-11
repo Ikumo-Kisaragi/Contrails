@@ -9,15 +9,14 @@ My-List
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-VTuber事務所「深層組」所属タレント
+「深層組」所属タレント
 
 # description
 
 > This is the description of the feed.
 
-VTuber事務所「深層組」所属タレント のフィード
-・タレントご本人へのリプライ：含む
-・タレントご本人のリポスト ：含む
+VTuber事務所「深層組」所属タレント のフィード。
+タレントご本人へのリプライ・ご本人のリポストともに「含む」。
 
 # searchTerms
 
