@@ -15,7 +15,7 @@ My-List
 
 > This is the description of the feed.
 
-VTuber事務所「深層組」所属タレント のフィード。ご本人へのリプライ・ご本人のリポストともに「含む」
+VTuber事務所「深層組」所属タレント のフィード。ご本人のリポストを「含む」
 
 # searchTerms
 
@@ -26,16 +26,16 @@ VTuber事務所「深層組」所属タレント のフィード。ご本人へ�
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 > 従井ノラ
-- https://bsky.app/profile/norashitagai.bsky.social +replies +reposts
+- https://bsky.app/profile/norashitagai.bsky.social +reposts
 
 > わからせちょろ
-- https://bsky.app/profile/choronya.bsky.social +replies +reposts
+- https://bsky.app/profile/choronya.bsky.social +reposts
 
 > 刺杉あいす
-- https://bsky.app/profile/sashisugiaisu.bsky.social +replies +reposts
+- https://bsky.app/profile/sashisugiaisu.bsky.social +reposts
 
 > 数打あたる
-- https://bsky.app/profile/atarukazuuchi.bsky.social +replies +reposts
+- https://bsky.app/profile/atarukazuuchi.bsky.social +reposts
 
 # denyList
 
