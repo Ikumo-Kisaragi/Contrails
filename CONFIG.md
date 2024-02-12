@@ -3,7 +3,7 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-My-List
+IkumoFeed01
 
 # displayName
 
@@ -27,6 +27,9 @@ VTuber事務所「深層組」所属メンバーのフィード。ご本人の�
 
 > 従井ノラ
 - https://bsky.app/profile/norashitagai.bsky.social +reposts
+
+> 寧々丸
+- https://bsky.app/profile/nenemaru220.bsky.social +reposts
 
 > わからせちょろ
 - https://bsky.app/profile/choronya.bsky.social +reposts
